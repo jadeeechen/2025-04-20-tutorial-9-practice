@@ -39,6 +39,10 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# pkgdown site
+docs/
+_site/
+
 # translation temp files
 po/*~
 
